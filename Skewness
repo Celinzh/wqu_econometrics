@@ -89,6 +89,8 @@ plt.tight_layout()
 # Display the visualizations
 plt.show()
 
+
+
 5. Diagnosis: Here are some methods to diagnose the presence of skewness:
 Visual Inspection: Plotting a histogram or density plot of the data can visually reveal asymmetry in the distribution. Skewed data will show a longer tail on one side compared to the other.
 Skewness Coefficient: Calculating the skewness coefficient using Fisher-Pearson coefficient of skewness formula can provide a numerical measure of asymmetry. A non-zero value indicates skewness.
